@@ -1,3 +1,4 @@
 *.log
 dir/
 abcd.log
+file_renamed.txt
