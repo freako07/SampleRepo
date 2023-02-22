@@ -1,4 +1,4 @@
-class Singer {
+abcdclass Singer {
     var name : String
     private (set) var age : Int
 
